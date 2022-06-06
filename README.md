@@ -7,7 +7,11 @@ Indian Cyber Army Project
 
 ### Youtube explanation : https://youtu.be/wVDSMBJMG0Q
 
-#### College project 
+### Base Research paper : https://www.ijeat.org/wp-content/uploads/papers/v9i4/D8760049420.pdf
+
+### Contact for Project code, documents and video explanation
+
+### Need Help in College project ?
 
 Mail : vatshayan007@gmail.com
 
