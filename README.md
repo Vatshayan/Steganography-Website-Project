@@ -1,6 +1,10 @@
 # Steganography-Indian-Cyber-Army-Project
 
-Abstract : Hiding of a secret message within an ordinary message and the extraction of it at its destination. Steganography is data hidden within data. Steganography is an encryption technique that can be used along with cryptography as an extra-secure method in which to protect data. Steganography techniques can be applied to images, a video file or an audio file. Steganography is the science of hiding information. Whereas the goal of cryptography is to make data unreadable by a third party, the goal of steganography is to hide the data from a third party. 
+### Youtube explanation : https://youtu.be/wVDSMBJMG0Q
+
+### Abstract :
+
+Hiding of a secret message within an ordinary message and the extraction of it at its destination. Steganography is data hidden within data. Steganography is an encryption technique that can be used along with cryptography as an extra-secure method in which to protect data. Steganography techniques can be applied to images, a video file or an audio file. Steganography is the science of hiding information. Whereas the goal of cryptography is to make data unreadable by a third party, the goal of steganography is to hide the data from a third party. 
 
 
 ## Indian Cyber Army Project
@@ -14,8 +18,10 @@ Abstract : Hiding of a secret message within an ordinary message and the extract
 
 ### Contact for Project code, documents and video explanation
 
-### Need Help in College project ?
+## Need Help in College project ?
 
-Mail : vatshayan007@gmail.com
+### Mail : vatshayan007@gmail.com
+
+### WhatsApp: **+91 9310631437** (Helping 24*7) **[LINK](https://wa.me/message/CHWN2AHCPMAZK1)** 
 
 Website : [click](https://www.cse-projects.com/)
