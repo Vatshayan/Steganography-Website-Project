@@ -20,8 +20,13 @@ Hiding of a secret message within an ordinary message and the extraction of it a
 
 ## Need Help in College project ?
 
-### Mail : vatshayan007@gmail.com
+
+## How to Reach me :
+
+### Mail : vatshayan007@gmail.com 
 
 ### WhatsApp: **+91 9310631437** (Helping 24*7) **[LINK](https://wa.me/message/CHWN2AHCPMAZK1)** 
 
-Website : [click](https://www.cse-projects.com/)
+### Website : https://www.cse-projects.com/
+
+### 1000 Computer Science Project List : https://www.computer-science-project.in/
