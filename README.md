@@ -16,17 +16,16 @@ Hiding of a secret message within an ordinary message and the extraction of it a
 
 ### Base Research paper : https://www.ijeat.org/wp-content/uploads/papers/v9i4/D8760049420.pdf
 
-### Contact for Project code, documents and video explanation
-
-## Need Help in College project ?
-
+### Need Code, Documents & Explanation video ? 
 
 ## How to Reach me :
 
 ### Mail : vatshayan007@gmail.com 
 
-### WhatsApp: **+91 9310631437** (Helping 24*7) **[LINK](https://wa.me/message/CHWN2AHCPMAZK1)** 
+### WhatsApp: **+91 9310631437** (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
 
-### Website : https://www.cse-projects.com/
+### Website : https://www.finalproject.in/
 
-### 1000 Computer Science Project List : https://www.computer-science-project.in/
+### 1000 Computer Science Projects : https://www.computer-science-project.in/
+
+Mail/Message me for Projects Help 🙏🏻
